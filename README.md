@@ -65,5 +65,20 @@ SHAP plots show **why** a specific delivery is predicted late, increasing trust 
 
 ---
 
+# Thesis Documents
+
+| File | Purpose |
+|------|---------|
+
+| `BalajiKornepati_ThesisReport.pdf` | Final publication format |
+
+This thesis may be referenced for **academic use only**.  
+Commercial reuse requires permission from the author.
+
+MIT License
+
+Copyright (c) 2025 Balaji Kornepati
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 
